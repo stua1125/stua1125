@@ -1,4 +1,4 @@
-Hi✋ there! i'm back-end developer using java, java language. <p>
+Hi✋ there! i'm back-end developer using java, ruby language. <p>
 Let's be good friends :) 
 
 <br> 
