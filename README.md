@@ -1,6 +1,6 @@
 Hi✋ I'm PyeongSeok 
 - - -
-i'm back-end developer using java, ruby language. <p>
+i'm Back-End Engineer.<p>
 Let's be good friends :) 
 
 
